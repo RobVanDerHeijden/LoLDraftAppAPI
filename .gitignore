@@ -358,3 +358,5 @@ MigrationBackup/
 .idea/vcs.xml
 .idea/misc.xml
 .idea/modules.xml
+LoLDrafterAPI/.vs/LoLDrafterAPI/v16/.suo
+LoLDrafterAPI/.vs/LoLDrafterAPI/v16/Server/sqlite3/storage.ide-wal
