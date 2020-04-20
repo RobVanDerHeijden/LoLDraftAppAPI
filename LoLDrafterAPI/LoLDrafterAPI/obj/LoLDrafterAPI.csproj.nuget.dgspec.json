@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI.Model\\LoLDrafterAPI.Model.csproj": {}
+    "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI\\LoLDrafterAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI.Model\\LoLDrafterAPI.Model.csproj": {
+    "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI\\LoLDrafterAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI.Model\\LoLDrafterAPI.Model.csproj",
-        "projectName": "LoLDrafterAPI.Model",
-        "projectPath": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI.Model\\LoLDrafterAPI.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI\\LoLDrafterAPI.csproj",
+        "projectName": "LoLDrafterAPI",
+        "projectPath": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI\\LoLDrafterAPI.csproj",
         "packagesPath": "C:\\Users\\Rob van der Heijden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI.Model\\obj\\",
+        "outputPath": "C:\\Users\\Rob van der Heijden\\OneDrive - Office 365 Fontys\\Fontys\\S4\\FUN\\IndividueelProject\\Backend\\LoLDraftAppAPI\\LoLDrafterAPI\\LoLDrafterAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
